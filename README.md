@@ -38,3 +38,13 @@ One focused question in the database analysis, using a live squared test at a si
 ## Conclusions
 
 The study confirms the four hypotheses derived from the focused questions. In the discussion and conclusions chapter, our recommendation for future studies is to conduct research after the end of the Corona epidemic and closures. This future study should explore the effects of information systems in the restaurant industry on customer service provision, delving into why people choose food delivery apps over physical restaurant dining. Additionally, it should investigate whether the number of customers physically visiting the restaurant surpasses those ordering through food delivery apps from restaurants.
+
+## Sources
+
+In this repository, three files are attached:
+
+1. **Repository Analysis Results (Database Analysis Data)**
+2. **Survey Data**
+3. **Research PDF (SeminarProject.pdf)**
+
+The research PDF contains a comprehensive overview of the entire research, including abstract, introduction, review of the literature, hypothesis, the purpose and method of the study, findings, discussion and conclusions, reflection, bibliography, and appendices.
